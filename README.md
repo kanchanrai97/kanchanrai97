@@ -6,7 +6,7 @@
 
 - <b>Python</b>
   - [Telecom Data Analysis](https://github.com/kanchanrai97/Telecom-Data-Analysis)
-  - [Sentiment Analysis)](https://github.com/kanchanrai97/Sentiment-Analysis)
+  - [Sentiment Analysis](https://github.com/kanchanrai97/Sentiment-Analysis)
   - [Generate FaceExpression](https://github.com/kanchanrai97/FacExpression_CNN)
   - [Word Embedding using GLove](https://github.com/kanchanrai97/Word-Embedding_GloVe)
 - <b>Power BI</b>
